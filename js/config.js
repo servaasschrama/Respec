@@ -10,7 +10,7 @@ var respecConfig = {
   publishVersion: "0.0.1",
   title: "PublicatieTest",
   // previousPublishVersion: "(none)",
-  content: {"ch01": "informative", "ch02": "", "mermaid": ""},
+  content: {"ch01": "informative", "ch02": "", "ch07": "": "mermaid": ""},
   editors:
     [
       {
